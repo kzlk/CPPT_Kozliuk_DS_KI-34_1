@@ -1,0 +1,12 @@
+SONY
+FX3 Body
+20
+Optical
+1
+5
+18
+55
+CMOS
+60
+10000
+MicroSD
