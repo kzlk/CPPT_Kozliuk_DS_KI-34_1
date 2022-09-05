@@ -7,7 +7,11 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Objects;
-
+/**
+ * Class <code>VideoCamera</code> implements video camera
+ * @author Kozliuk Dmytro KI-34
+ * @version 1.0
+ */
 public class VideoCamera extends Camera implements IRecorder, Printable, IPromptableKey
 {
 

@@ -2,7 +2,11 @@ package KI34.Kozliuk.Lab3;
 import static java.lang.System.out;
 import java.io.*;
 import java.util.Scanner;
-
+/**
+ * Class <code>CameraApp</code> implements main method to start program
+ * @author Kozliuk Dmytro KI-34
+ * @version 1.0
+ */
 public class CameraApp
 {
     public static void main(String[] args) throws IOException
@@ -12,7 +16,11 @@ public class CameraApp
     }
 }
 
-
+/**
+ * Class <code>Human</code> implements Human interactions with camera/videocamera
+ * @author Kozliuk Dmytro KI-34
+ * @version 1.0
+ */
 class Human
 {
     private Scanner scanner;

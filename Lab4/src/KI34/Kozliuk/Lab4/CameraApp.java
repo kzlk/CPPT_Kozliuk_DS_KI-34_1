@@ -5,6 +5,11 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
+/**
+ * Class <code>CameraApp</code> implements main method to start program
+ * @author Kozliuk Dmytro KI-34
+ * @version 1.0
+ */
 public class CameraApp
 {
     public static void main(String[] args) throws IOException, InterruptedException {
@@ -15,7 +20,11 @@ public class CameraApp
     }
 }
 
-
+/**
+ * Class <code>Human</code> implements Human interactions with camera/videocamera
+ * @author Kozliuk Dmytro KI-34
+ * @version 1.0
+ */
 class Human
 {
     private Scanner scanner;
