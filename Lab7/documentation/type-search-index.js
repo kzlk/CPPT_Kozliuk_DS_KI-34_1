@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI34.Kozliuk.Lab7","l":"Box"},{"p":"KI34.Kozliuk.Lab7","l":"BoxDriver"},{"p":"KI34.Kozliuk.Lab7","l":"Item"},{"p":"KI34.Kozliuk.Lab7","l":"Sweet"},{"p":"KI34.Kozliuk.Lab7","l":"Tools"}];updateSearchResults();
